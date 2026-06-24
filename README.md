@@ -101,3 +101,7 @@ deteccion-anomalias-salud-publica/
 Ver informe completo en `/informes/informe_etica.md`
 
 ---
+
+## Tablero de Trello
+
+https://trello.com/invite/b/6a3c437dcd4147dfe31788a0/ATTIe81da4b2dc9f627189ac55f0fc3d47958146144E/deteccion-de-anomalias-salud-publica
