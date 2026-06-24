@@ -64,6 +64,23 @@ El backlog y el seguimiento del sprint se gestionaron mediante **Trello**.
 ---
 
 ## Estructura del Repositorio
+deteccion-anomalias-salud-publica/
+
+│
+
+├── README.md
+
+├── datos/
+
+│   └── dataset_salud.csv
+
+├── notebooks/
+
+│   └── analisis_anomalias.ipynb
+
+└── informes/
+
+└── informe_etica.md
 
 ---
 
