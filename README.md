@@ -4,7 +4,7 @@
 
 **Orlando Martin**  
 Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial  
-Instituto Nuevos Aires — 2025
+Instituto Nuevos Aires — 2026
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow" />
