@@ -63,6 +63,18 @@ El backlog y el seguimiento del sprint se gestionaron mediante **Trello**.
 
 ---
 
+##  Evidencia del Sprint en Trello
+
+### Inicio del Sprint
+![Inicio del Sprint](inicio_sprint.png)
+
+### Mitad del Sprint
+![Mitad del Sprint](mitad_sprint.png)
+
+### Fin del Sprint
+![Fin del Sprint](final_sprint.png)
+
+---
 ## Estructura del Repositorio
 deteccion-anomalias-salud-publica/
 
